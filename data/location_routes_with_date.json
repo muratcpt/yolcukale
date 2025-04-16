@@ -1,0 +1,2054 @@
+[
+  {
+    "from": "İskele Meydan",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "İskele Meydan",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "İskele Meydan",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "İskele Meydan",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "İskele Meydan",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "İskele Meydan",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "İskele Meydan",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "İskele Meydan",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "İskele Meydan",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "İskele Meydan",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "İskele Meydan",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "İskele Meydan",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "İskele Meydan",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "İskele Meydan",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "İskele Meydan",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "İskele Meydan",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "İskele Meydan",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "İskele Meydan",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Saat Kulesi",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "17 Burda AVM",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "KYK Ardes Öğrenci Yurdu",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Mühendislik Fakültesi",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Kütüphanesi",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Eğitim Fakültesi",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ İlahiyat Fakültesi",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "ÇOMÜ Tıp Fakültesi",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Araştırma Hastanesi",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Kepez",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Güzelyalı",
+    "to": "Lapseki",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "İskele Meydan",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "Saat Kulesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "17 Burda AVM",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "KYK Nusrat Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "KYK Safiye Hüseyin Elbi Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "KYK Kerime Sultan Erkek Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "KYK Çanakkale Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "KYK Terzioğlu Kız Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "KYK Ardes Öğrenci Yurdu",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "ÇOMÜ Mühendislik Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "ÇOMÜ Fen-Edebiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "ÇOMÜ Kütüphanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "ÇOMÜ Eğitim Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "ÇOMÜ İlahiyat Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "ÇOMÜ Tıp Fakültesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "Araştırma Hastanesi",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "Kepez",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  },
+  {
+    "from": "Lapseki",
+    "to": "Güzelyalı",
+    "price": "100₺",
+    "createdAt": "2025-04-16T12:09:02.918086"
+  }
+]
