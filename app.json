@@ -3,42 +3,19 @@
     "name": "RideSharingApp",
     "slug": "ridesharing-app",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "icon": "./assets/icon.png",  
+    "splash": {
+      "image": "./assets/splash.png",  
+      "resizeMode": "contain",
+      "backgroundColor": "#121212"
+    },
     "android": {
-      "package": "com.megecpt.ridesharingapp",
+      "package": "com.muratcpt.ridesharingapp", 
       "versionCode": 1,
-      "permissions": [
-        "ACCESS_FINE_LOCATION",
-        "ACCESS_COARSE_LOCATION"
-      ],
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/icon.png",
-        "backgroundColor": "#121212"
-      },
-      "buildType": "apk"
-    },
-    "ios": {
-      "bundleIdentifier": "com.megecpt.ridesharingapp",
-      "buildNumber": "1",
       "icon": "./assets/icon.png",
-      "supportsTablet": true
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "build": {
-      "android": {
-        "release": {
-          "distribution": "internal"
-        }
-      }
-    },
-    "extra": {
-      "eas": {
-        "projectId": "786d837f-ba52-465e-8dc9-ca78e12dbd1f"
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png", 
+        "backgroundColor": "#121212"
       }
     }
   }
