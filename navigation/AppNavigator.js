@@ -14,7 +14,7 @@ import PassengerPosts from '../screens/PassengerPosts';
 import PassengerMessages from '../screens/PassengerMessages';
 import ChatScreen from '../screens/ChatScreen';
 import CleanerScreen from '../screens/CleanerScreen';
-import SignUpScreen from '../screens/SignUpScreen';
+import RegisterScreen from '../screens/RegisterScreen';
 
 
 
@@ -30,7 +30,9 @@ export default function AppNavigator() {
       <Stack.Navigator screenOptions={{ headerShown: false }}>
         {/* Kullanıcı Tipi Seçimi */}
         <Stack.Screen name="Login" component={LoginScreen} />
-        <Stack.Screen name="Signup" component={SignUpScreen} />
+        <Stack.Screen name="RegisterScreen" component={RegisterScreen} />
+
+        
         
         {/* Kayıt Ekranları */}
         <Stack.Screen name="DriverRegister" component={DriverRegister} />

@@ -1,10 +1,13 @@
 import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, StyleSheet, Alert } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { useNavigation } from '@react-navigation/native';
 
-export default function LoginScreen({ navigation }) {
+export default function LoginScreen() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
+  const [userType, setUserType] = useState('passenger');
+  const navigation = useNavigation();
 
   const handleLogin = async () => {
     if (!email || !password) {
@@ -13,14 +16,17 @@ export default function LoginScreen({ navigation }) {
     }
 
     try {
-      const storedUser = await AsyncStorage.getItem('user');
-      const user = storedUser ? JSON.parse(storedUser) : null;
+      const user = await AsyncStorage.getItem('user');
+      const parsedUser = user ? JSON.parse(user) : null;
 
-      if (user && user.email === email && user.password === password) {
-        Alert.alert('Başarı', 'Giriş başarılı');
-        navigation.navigate('DriverHome'); // Veya yolcu sayfasına yönlendir
+      if (parsedUser && parsedUser.email === email && parsedUser.password === password) {
+        if (parsedUser.userType === 'driver') {
+          navigation.navigate('DriverHome');
+        } else if (parsedUser.userType === 'passenger') {
+          navigation.navigate('PassengerHome');
+        }
       } else {
-        Alert.alert('Hata', 'Geçersiz email veya şifre');
+        Alert.alert('Hata', 'Yanlış email veya şifre');
       }
     } catch (err) {
       Alert.alert('Hata', 'Giriş sırasında bir hata oluştu');
@@ -32,7 +38,7 @@ export default function LoginScreen({ navigation }) {
     <View style={styles.container}>
       <TextInput
         style={styles.input}
-        placeholder="Email"
+        placeholder="E-posta"
         value={email}
         onChangeText={setEmail}
       />
@@ -43,11 +49,20 @@ export default function LoginScreen({ navigation }) {
         value={password}
         onChangeText={setPassword}
       />
-      <TouchableOpacity style={styles.button} onPress={handleLogin}>
-        <Text style={styles.buttonText}>Giriş Yap</Text>
-      </TouchableOpacity>
-      <TouchableOpacity onPress={() => navigation.navigate('Signup')}>
-        <Text style={styles.signupText}>Hesabınız yok mu? Kayıt Olun</Text>
+      <View style={styles.userTypeContainer}>
+        <TouchableOpacity onPress={() => setUserType('driver')}>
+          <Text style={[styles.userTypeText, userType === 'driver' && styles.selected]}>
+            Şoför
+          </Text>
+        </TouchableOpacity>
+        <TouchableOpacity onPress={() => setUserType('passenger')}>
+          <Text style={[styles.userTypeText, userType === 'passenger' && styles.selected]}>
+            Yolcu
+          </Text>
+        </TouchableOpacity>
+      </View>
+      <TouchableOpacity style={styles.loginButton} onPress={handleLogin}>
+        <Text style={styles.loginButtonText}>Giriş Yap</Text>
       </TouchableOpacity>
     </View>
   );
@@ -62,12 +77,14 @@ const styles = StyleSheet.create({
     marginBottom: 15,
     borderRadius: 10,
   },
-  button: {
-    backgroundColor: '#3498db',
+  loginButton: {
+    backgroundColor: '#28a745',
     padding: 15,
     borderRadius: 10,
     alignItems: 'center',
   },
-  buttonText: { color: '#fff', fontSize: 16 },
-  signupText: { color: '#aaa', textAlign: 'center', marginTop: 10 },
+  loginButtonText: { color: '#fff', fontSize: 16 },
+  userTypeContainer: { flexDirection: 'row', justifyContent: 'space-around', marginBottom: 20 },
+  userTypeText: { color: '#aaa', fontSize: 16 },
+  selected: { color: '#3498db' },
 });
