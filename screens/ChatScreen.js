@@ -117,9 +117,6 @@ export default function ChatScreen({ route }) {
       >
         <Text style={styles.text}>{item.text}</Text>
         <Text style={styles.time}>{displayTime}</Text>
-        <TouchableOpacity onPress={() => handleDelete(item)}>
-          <Text style={styles.delete}>🗑️ Sil</Text>
-        </TouchableOpacity>
       </View>
       </GlobalLayout>
       
