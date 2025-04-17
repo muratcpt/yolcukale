@@ -1,32 +1,60 @@
 import React from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import { Ionicons } from '@expo/vector-icons';
+import Ionicons from 'react-native-vector-icons/Ionicons';
+
 import PassengerHome from './PassengerHome';
 import PassengerPosts from './PassengerPosts';
 import PassengerMessages from './PassengerMessages';
 
 const Tab = createBottomTabNavigator();
 
-export default function PassengerTabs() {
+export default function BottomTabNavigator() {
   return (
     <Tab.Navigator
-      screenOptions={({ route }) => ({
-        tabBarIcon: ({ color, size }) => {
-          let iconName;
-          if (route.name === 'Ana Sayfa') iconName = 'home-outline';
-          else if (route.name === 'İlanlarım') iconName = 'list-outline';
-          else if (route.name === 'Mesajlarım') iconName = 'chatbubble-ellipses-outline';
-          return <Ionicons name={iconName} size={size} color={color} />;
-        },
+      screenOptions={{
         tabBarActiveTintColor: '#4CAF50',
-        tabBarInactiveTintColor: 'gray',
-        headerShown: false,
-        tabBarStyle: { backgroundColor: '#121212' },
-      })}
+        tabBarInactiveTintColor: '#999',
+        tabBarStyle: {
+          backgroundColor: '#181818',
+          borderTopColor: 'transparent',
+          height: 60,
+          paddingBottom: 5,
+        },
+        headerShown: false, // üstteki başlığı kaldırır
+      }}
     >
-      <Tab.Screen name="Ana Sayfa" component={PassengerHome} />
-      <Tab.Screen name="İlanlarım" component={PassengerPosts} />
-      <Tab.Screen name="Mesajlarım" component={PassengerMessages} />
+      <Tab.Screen
+        name="AnaSayfa"
+        component={PassengerHome}
+        options={{
+          tabBarLabel: 'Ana Sayfa',
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons name="home-outline" color={color} size={size} />
+          ),
+        }}
+      />
+
+      <Tab.Screen
+        name="Ilanlarim"
+        component={PassengerPosts}
+        options={{
+          tabBarLabel: 'İlanlarım',
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons name="list-outline" color={color} size={size} />
+          ),
+        }}
+      />
+
+      <Tab.Screen
+        name="Mesajlarim"
+        component={PassengerMessages}
+        options={{
+          tabBarLabel: 'Mesajlarım',
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons name="chatbubble-outline" color={color} size={size} />
+          ),
+        }}
+      />
     </Tab.Navigator>
   );
 }
