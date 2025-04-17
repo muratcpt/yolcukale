@@ -1,31 +1,20 @@
 import React from 'react';
-import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
-import GlobalLayout from '../components/GlobalLayout';
-
+import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
+import { Ionicons } from '@expo/vector-icons';
 
 export default function PassengerHome({ navigation }) {
   return (
-    <GlobalLayout>
-      <View style={styles.container}>
-      <Text style={styles.title}>Yolcu Ana Sayfa 🙋‍♂️</Text>
+    <View style={styles.container}>
+      <Text style={styles.title}>Hoş Geldin 👋</Text>
 
       <TouchableOpacity
         style={styles.button}
         onPress={() => navigation.navigate('CreatePost')}
       >
-        <Text style={styles.buttonText}>+ Post Oluştur</Text>
+        <Ionicons name="add-circle-outline" size={24} color="#fff" />
+        <Text style={styles.buttonText}>Yeni Yolculuk İlanı</Text>
       </TouchableOpacity>
-      <TouchableOpacity onPress={() => navigation.navigate('PassengerPosts')} style={{ marginTop: 20 }}>
-          <Text style={{ color: 'white', fontSize: 16 }}>📋 İlanlarım</Text>
-      </TouchableOpacity>
-      <TouchableOpacity onPress={() => navigation.navigate('PassengerMessages')} style={{ marginTop: 20 }}>
-        <Text style={{ color: 'white', fontSize: 16 }}>📨 Gelen Mesajlarım</Text>
-      </TouchableOpacity>
-
-
     </View>
-    </GlobalLayout>
-    
   );
 }
 
@@ -33,23 +22,25 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#121212',
-    justifyContent: 'center',
     alignItems: 'center',
-    padding: 20,
+    justifyContent: 'center',
   },
   title: {
-    fontSize: 22,
+    fontSize: 28,
     color: '#fff',
-    marginBottom: 30,
+    marginBottom: 20,
+    fontWeight: 'bold',
   },
   button: {
-    backgroundColor: '#28a745',
-    paddingVertical: 15,
-    paddingHorizontal: 40,
-    borderRadius: 10,
+    flexDirection: 'row',
+    backgroundColor: '#4CAF50',
+    padding: 15,
+    borderRadius: 25,
+    alignItems: 'center',
   },
   buttonText: {
     color: '#fff',
-    fontSize: 16,
+    fontSize: 18,
+    marginLeft: 10,
   },
 });

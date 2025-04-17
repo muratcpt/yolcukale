@@ -1,7 +1,6 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-
 import LoginRegisterScreen from '../screens/LoginRegisterScreen';
 import DriverRegister from '../screens/DriverRegister';
 import PassengerRegister from '../screens/PassengerRegister';
@@ -14,6 +13,10 @@ import PassengerPosts from '../screens/PassengerPosts';
 import PassengerMessages from '../screens/PassengerMessages';
 import ChatScreen from '../screens/ChatScreen';
 import CleanerScreen from '../screens/CleanerScreen';
+import BottomTabNavigator from '../screens/BottomTabNavigator';
+
+
+
 
 
 const Stack = createNativeStackNavigator();
@@ -21,9 +24,10 @@ const Stack = createNativeStackNavigator();
 export default function AppNavigator() {
   return (
     <NavigationContainer>
-      <Stack.Navigator initialRouteName="LoginRegister">
+      <Stack.Navigator screenOptions={{ headerShown: false }}>
         {/* Kullanıcı Tipi Seçimi */}
-        <Stack.Screen name="LoginRegister" component={LoginRegisterScreen} options={{ headerShown: false }} />
+        <Stack.Screen name="LoginRegister" component={LoginRegisterScreen}/>
+
         <Stack.Screen name="DriverHome" component={DriverHome} />
         <Stack.Screen name="PassengerHome" component={PassengerHome} />
 
@@ -32,6 +36,7 @@ export default function AppNavigator() {
         <Stack.Screen name="DriverRegister" component={DriverRegister} />
         <Stack.Screen name="PassengerRegister" component={PassengerRegister} />
         {/* Ana Sayfalar */}
+        <Stack.Screen name="Tabs" component={BottomTabNavigator} />
 
         <Stack.Screen name="CreatePost" component={CreatePost} />
         <Stack.Screen name="PostDetail" component={PostDetail} />
